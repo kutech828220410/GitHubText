@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\bin\Debug\WinFormsTest.exe.config
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\bin\Debug\WinFormsTest.exe
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\bin\Debug\WinFormsTest.pdb
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.Form1.resources
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.Properties.Resources.resources
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.exe
+C:\Users\User\Source\Repos\GitHubText\WinFormsTest\obj\Debug\WinFormsTest.pdb
